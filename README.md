@@ -1,40 +1,106 @@
-Timeless Restaurant Management System
-This is a comprehensive desktop application built with Java Swing for a restaurant. The system allows customers to place orders from an interactive menu and enables staff to manage billing and track active orders. It uses a modular architecture with an in-memory data cache to ensure high performance.
+# 🍽️ Restaurant Management Timeless
 
-Key Features
-Customer Module: A user-friendly interface where customers can browse the menu with images and place orders.
+A Java-based Restaurant Management System designed to streamline restaurant operations such as menu management, customer ordering, kitchen workflow, and order tracking. The application provides an intuitive graphical user interface built with Java Swing and integrates with a database for efficient data management.
 
-Staff Module: A secure login system for staff to access a real-time billing system for active orders.
+---
 
-Database Integration: Connects to a MySQL database to manage all restaurant data.
+## ✨ Features
 
-Performance Optimization: Implements an in-memory data cache to reduce database queries and improve application speed.
+* Customer menu interface
+* Table-based ordering system
+* Order management
+* Menu management
+* Kitchen order tracking
+* Database integration
+* Image support for menu items
+* User-friendly Java Swing interface
 
-How to Run
-Dependencies: Ensure you have Java JDK 8+ and the MySQL Connector/J library.
+---
 
-Database: The application requires a MySQL database with menu, orders, and staff tables. Update the database connection details in DatabaseManager.java.
+## 🛠️ Technologies Used
 
-Image Assets: Place all image files (gw.png, log.png, 1.png, etc.) in the project's root directory.
+* Java
+* Java Swing
+* JDBC
+* SQL Database
+* Object-Oriented Programming (OOP)
 
-Compile & Run:
+---
 
-javac -cp .:mysql-connector-java-8.0.28.jar *.java
-java -cp .:mysql-connector-java-8.0.28.jar RestaurantApp
+## 📂 Project Structure
 
-(Note: Adjust the MySQL Connector file name as needed.)
+```text
+restaurant-management-timeless/
+│
+├── src/
+├── images/
+├── database/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── CONTRIBUTING.md
+├── SECURITY.md
+└── .github/
+    └── PULL_REQUEST_TEMPLATE.md
+```
 
-Project Structure
-RestaurantApp.java: Main entry point.
+---
 
-GatewayWindow.java: Welcome screen.
+## 🚀 Getting Started
 
-MenuWindow.java: Customer ordering interface.
+### Clone the repository
 
-StaffLoginWindow.java: Staff login screen.
+```bash
+git clone https://github.com/Siva-kumar-r16/restaurant-management-timeless.git
+```
 
-BillingWindow.java: Staff billing system.
+### Open the project
 
-DatabaseManager.java: Handles database connections.
+Import the project into your preferred Java IDE (Eclipse, IntelliJ IDEA, or NetBeans).
 
-ApplicationData.java: Manages the in-memory data cache.
+### Run the application
+
+Compile and execute the main Java class to start the Restaurant Management System.
+
+---
+
+## 📋 Modules
+
+* Customer Menu
+* Order Placement
+* Active Orders
+* Kitchen Management
+* Database Operations
+* Menu Item Management
+
+---
+
+## 🔮 Future Enhancements
+
+* User Authentication
+* Online Food Ordering
+* Payment Gateway Integration
+* Sales Reports
+* Inventory Management
+* Admin Dashboard
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push your branch.
+5. Open a Pull Request.
+
+---
+
+## 👨‍💻 Author
+
+**Sivakumar R**
+
+GitHub: https://github.com/Siva-kumar-r16
+Portfoilio: https://sivakumars-portfolio.netlify.app/
