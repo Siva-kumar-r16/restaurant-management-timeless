@@ -134,7 +134,7 @@ This project was developed as a collaborative college group project.
 
 | Name | GitHub |
 |------|--------|
-| **Sivakumar R** | https://github.com/Siva-kumar-r16 |
+| **Siva kumar R** | https://github.com/Siva-kumar-r16 |
 | **Kevin Stark** | https://github.com/Kevin-Stark47 |
 | **Sanjith Roshan B** | https://github.com/sanjithroshanb |
 
@@ -142,7 +142,7 @@ This project was developed as a collaborative college group project.
 
 ## 🌐 Author Portfolio
 
-**Sivakumar R**
+**Siva kumar R**
 
 GitHub: https://github.com/Siva-kumar-r16
 
