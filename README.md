@@ -137,6 +137,8 @@ This project was developed as a collaborative college group project.
 | **Siva kumar R** | https://github.com/Siva-kumar-r16 |
 | **Kevin Stark** | https://github.com/Kevin-Stark47 |
 | **Sanjith Roshan B** | https://github.com/sanjithroshanb |
+| **Santhosh K** | https://github.com/KSanthosh2007 |
+| **Sathya Selvan** | https://github.com/Satyaselvan007 |
 
 ---
 
